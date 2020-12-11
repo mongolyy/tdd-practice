@@ -1,2 +1,1 @@
-# tdd-practice
-Created with CodeSandbox
+An emtpy TypeScript project template.
